@@ -59,7 +59,7 @@ global.footer = '[ ◉🕊️📍 Ａ ꜱ ɪ ʏ ᴀ __🍂🦄 ]' //
 global.premium = ['+94764104068'] //ur premium numbers
 
 //other
-global.sessionName = 'session-3'
+global.sessionName = 'session'
 global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
